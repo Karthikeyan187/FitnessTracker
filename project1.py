@@ -149,7 +149,7 @@ elif section == "System Architecture":
     - **Integration**: Google Fit, Fitbit, and Apple Health enable real-time data syncing.
     """)
     st.subheader("System Architecture Diagram")
-    st.image("diagram.png", caption="System Architecture")
+    st.image("./images/diagram.png", caption="System Architecture")
 
 elif section == "Database Schema":
     st.header("Database Schema")
